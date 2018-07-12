@@ -1,0 +1,21 @@
+{
+  "name": "message-app",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "pbriar <pbriar@live.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/PaulBriar/Node-Message-App",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "css-calc-mixin": "*"
+  }
+}
